@@ -25,6 +25,8 @@
   <p align="center">
     This document is a personal collection of Japanese learning resources, updated over time as new tools and websites are discovered. It’s designed to be a simple, flexible reference for learners, with each addition tracked through commits for easy updates.
     <br />
+    <br>
+    
     <a href="https://github.com/Jear-Bear/JP-Learning-Resources/blob/main/Resources.md"><strong>Explore the resources »</strong></a>
     ·
     <a href="https://github.com/jear-bear/JP-Learning-Resources/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
