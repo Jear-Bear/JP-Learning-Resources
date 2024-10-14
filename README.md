@@ -20,7 +20,7 @@
   </a>
 -->
 
-<h3 align="center">Portfolio Website</h3>
+<h3 align="center">JP Learning Resources</h3>
 
   <p align="center">
     This document is a personal collection of Japanese learning resources, updated over time as new tools and websites are discovered. It’s designed to be a simple, flexible reference for learners, with each addition tracked through commits for easy updates.
