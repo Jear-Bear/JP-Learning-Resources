@@ -23,20 +23,15 @@
 <h3 align="center">Portfolio Website</h3>
 
   <p align="center">
-    This repository contains my personal portfolio website, showcasing my skills, projects, and professional background through an interactive and responsive interface. Built with React, Babylon.js, and LiquidFun, the site features dynamic page transitions and engaging animations, allowing visitors to explore my work seamlessly. Visit the live version <a href="https://jear-bear.github.io">here</a>.
+    This document is a personal collection of Japanese learning resources, updated over time as new tools and websites are discovered. It’s designed to be a simple, flexible reference for learners, with each addition tracked through commits for easy updates.
     <br />
-    <a href="https://github.com/jear-bear/jear-bear.github.io"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://jear-bear.github.io">View Demo</a>
+    <a href="https://github.com/Jear-Bear/JP-Learning-Resources/blob/main/Resources.md"><strong>Explore the resources »</strong></a>
     ·
-    <a href="https://github.com/jear-bear/jear-bear.github.io/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/jear-bear/JP-Learning-Resources/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/jear-bear/jear-bear.github.io/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/jear-bear/JP-Learning-Resources/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -44,11 +39,7 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -62,70 +53,22 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project serves as a portfolio website showcasing my skills and expertise in web development and interactive simulations. Built using **LiquidFun** and **Babylon.js**, the site features a dynamic simulation that integrates realistic 2D physics and immersive 3D graphics. 
+This project is a curated collection of Japanese learning resources designed to be a simple yet effective reference for learners. The goal is to create a living document that grows over time, capturing valuable websites, videos, and tools that support language acquisition. It won't follow any specific methodology like AJATT (All Japanese All The Time) but instead reflects a personal approach to learning.
 
-The primary goal is to provide an engaging interactive experience, allowing users to manipulate objects and observe the effects of physics in real-time. Through this project, I aim to demonstrate my proficiency in utilizing cutting-edge technologies to create visually appealing and technically robust applications. 
-
-This portfolio highlights my journey as a developer and my commitment to building innovative solutions that blend creativity with functionality.
-
+By organizing everything in a GitHub markdown file, this resource will serve as a permanent, easily updatable log. As new resources are discovered, they can be committed with a timestamp, tracking the progress and evolution of the collection.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-### Built With
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-<!--
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
--->
-* [![JQuery][JQuery.com]][JQuery-url]
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- USAGE EXAMPLES
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
- -->
-
 
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Redirect buttons on home page
-- [x] Dynamic liquidfun walls/boundaries based on screen dimensions
-- [ ] Mobile support
-    - [x] Support mobile phone screens
-    - [x] Track swipes to interact with liquidfun sandbox
-    - [ ] Mobile-friendly UI (especially for the landing page)
-- [ ] More Pages
-    - [ ] About Me
-    - [ ] Blog
-    - [ ] Projects
-    - [ ] Contact
-- [ ] CMS + DB for blog page and project page
-    - [ ] Setup DB
-    - [ ] Test article import using markdown format
-- [ ] Navbar for pages other than the landing page?
-    - [ ] Breadcrumbs?
-- [ ] UI animations
-    - [ ] Skeleton for nicer loading animations
-- [ ] Break up js files based on functions, make shared functions global
-    - [ ] Clean up code for readability
-        - [ ] Comments
+- [ ] Listening Materials
+- [ ] Reading Materials
+- [ ] Study Materials
+- [ ] Shows, TV, Anime, etc.
+- [ ] Other resources?
 
-See the [open issues](https://github.com/jear-bear/jear-bear.github.io/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/jear-bear/JP-Learning-Resources/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -136,7 +79,7 @@ See the [open issues](https://github.com/jear-bear/jear-bear.github.io/issues) f
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+If you have any suggestions for adding to this document, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
@@ -167,9 +110,9 @@ Distributed under the MIT License. See [LICENSE.txt](https://github.com/Jear-Bea
 <!-- CONTACT -->
 ## Contact
 
-Jared Perlmutter - [@jodabeats](https://twitter.com/jodabeats) - jperlmutter1@gmail.com
+Jared - [@jodabeats](https://twitter.com/jodabeats) - jperlmutter1@gmail.com
 
-Project Link: [https://github.com/jear-bear/jear-bear.github.io](https://github.com/jear-bear/jear-bear.github.io)
+Project Link: [https://github.com/Jear-Bear/JP-Learning-Resources/](https://github.com/Jear-Bear/JP-Learning-Resources/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -178,11 +121,9 @@ Project Link: [https://github.com/jear-bear/jear-bear.github.io](https://github.
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* Thanks to the LiquidFun team at Google for their open-source 2D physics engine, which really helped spice up my landing page.
-For more details, visit the [LiquidFun GitHub repository](https://github.com/google/liquidfun).
-* Special thanks to the Babylon.js team for their powerful and versatile game engine, which also helped me achieve a clean and positive UX on my landing page.
-For more information, visit the [Babylon.js website](https://www.babylonjs.com).
-* A big thanks to Andy Beaulieu, who used babylon.js and liquidfun in conjunction for sprite rendering--I was tearing my hair out trying to build a sprite library from the ground up before I found your [blog post](http://www.spritehand.com/2016/01/fluid-simulation-using-babylonjs-and.html).
+*
+*
+*
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
